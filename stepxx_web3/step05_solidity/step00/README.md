@@ -1,4 +1,4 @@
-#Understanding Solidity and Solidity files
+# Understanding Solidity and Solidity files
 
 To create the hardhat project template, First of All you need to install solidity compiler.
 
