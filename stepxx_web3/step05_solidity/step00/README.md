@@ -6,19 +6,19 @@ To create the hardhat project template, First of All you need to install solidit
 
 then, install hardhat
 
-npm install -g hardhat
+```npm install -g hardhat  ```
 
 Make directory 
 
-mkdir step00
+```mkdir step00```
 
 Change directory 
 
-cd ./step00/
+```cd ./step00/```
 
 now you are in step00 directory so to initiallize hardhat project 
 
-<-- npx hardhat -->
+```npx hardhat ```
 
 Install solidity extension from your VS Code Extensions.
 
@@ -31,7 +31,7 @@ Directory Structure
 3. Test directory cotains test scripts, use to test smart contract.
 
 go to contracts, and open Lock.sol file. Remove all the code and paste bellow code.
-
+```
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 
@@ -42,5 +42,5 @@ contract Lock {
     }
 
 }
-
+```
 To understand Pragma and commit read Book solidity
