@@ -8,19 +8,27 @@ npm install -g solc
 
 then, install hardhat
 
-```npm install -g hardhat  ```
+```
+npm install -g hardhat 
+```
 
 Make directory 
 
-```mkdir step00```
+```
+mkdir step00
+```
 
 Change directory 
 
-```cd ./step00/```
+```
+cd ./step00/
+```
 
 now you are in step00 directory so to initiallize hardhat project 
 
-```npx hardhat ```
+```
+npx hardhat
+```
 
 Install solidity extension from your VS Code Extensions.
 
