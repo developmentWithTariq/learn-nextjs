@@ -2,7 +2,9 @@
 
 To create the hardhat project template, First of All you need to install solidity compiler.
 
-```npm install -g solc```
+```
+npm install -g solc
+```
 
 then, install hardhat
 
