@@ -1,40 +1,10 @@
 # Understanding Solidity and Solidity files
-
-To create the hardhat project template, First of All you need to install solidity compiler.
-
-```
-npm install -g solc
-```
-
-then, install hardhat
-
-```
-npm install -g hardhat 
-```
-
-Make directory 
-
-```
-mkdir step00
-```
-
-Change directory 
-
-```
-cd ./step00/
-```
-
-now you are in step00 directory so to initiallize hardhat project 
-
-```
-npx hardhat
-```
+https://hardhat.org/tutorial/creating-a-new-hardhat-project
+To create the hardhat project, First of All you need to install solidity compiler.
 
 Install solidity extension from your VS Code Extensions.
 
-then, select create project with typescript, then enter, enter, enter for all remaining questions.
-
-Directory Structure
+## Directory Structure
 
 1. Contract directory contains Smart Contract files with .sol extension.
 2. Script directory contains scripts, Typescript file which will deploy smart contract to blockchain.
