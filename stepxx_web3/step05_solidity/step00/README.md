@@ -53,4 +53,4 @@ contract Lock {
 
 }
 ```
-To understand Pragma and commit read Book solidity
+To understand **Pragma** and **commit** read Book solidity
