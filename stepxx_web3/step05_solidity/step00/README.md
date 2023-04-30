@@ -85,4 +85,3 @@ describe("Lock", function () {
 Above code is just trying to Test weather our Amount function of Bank contract is return 3000 or not.
 To understand all about Smart contract Testing follow Step04Hardhat
 
-To understand **Pragma** and **commit** read Book solidity
